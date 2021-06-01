@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">KNN Stock Prediction</string>
+    <string name="edit_symbol">Enter a symbol</string>
+    <string name="button_predict">Predict</string>
+</resources>
